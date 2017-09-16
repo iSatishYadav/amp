@@ -3,7 +3,6 @@ title: "Hello World"
 date: 2017-09-16T09:16:55+05:30
 tags: ['amp', 'blog']
 categories: ["blog", "amp"]
-draft: true
 ---
 
 ## My First Post
