@@ -1,6 +1,6 @@
 theme="amp"
 title = "Satish Yadav"
-baseurl = "https://blog.satishyadav.com/"
+baseurl = "https://github.com/iSatishYadav/amp"
 canonifyurls = true
 publishDir = "docs"
 
