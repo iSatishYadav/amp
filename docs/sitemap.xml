@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://github.com/iSatishYadav/amp/post/hello-amp/</loc>
+    <lastmod>2017-09-16T09:16:55+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/iSatishYadav/amp/tags/amp/</loc>
+    <lastmod>2017-09-16T09:16:55+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/iSatishYadav/amp/categories/amp/</loc>
+    <lastmod>2017-09-16T09:16:55+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/iSatishYadav/amp/tags/blog/</loc>
+    <lastmod>2017-09-16T09:16:55+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/iSatishYadav/amp/categories/blog/</loc>
+    <lastmod>2017-09-16T09:16:55+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/iSatishYadav/amp/categories/</loc>
+    <lastmod>2017-09-16T09:16:55+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/iSatishYadav/amp/post/</loc>
+    <lastmod>2017-09-16T09:16:55+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/iSatishYadav/amp/</loc>
+    <lastmod>2017-09-16T09:16:55+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/iSatishYadav/amp/tags/</loc>
+    <lastmod>2017-09-16T09:16:55+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
