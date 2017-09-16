@@ -1,0 +1,13 @@
+theme="amp"
+title = "Satish Yadav"
+baseurl = "https://blog.satishyadav.com/"
+canonifyurls = true
+publishDir = "docs"
+
+[params]
+    description = "I turn Coffee into Code"
+
+[social]
+    twitter = "monstersatish"
+    github = "iSatishYadav"
+    facebook = "yadavsatish"
