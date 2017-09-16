@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Satish Yadav</title>
-    <link>https://github.com/iSatishYadav/amp/tags/</link>
+    <link>https://blog.satishyadav.com/amp/tags/</link>
     <description>Recent content in Tags on Satish Yadav</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 16 Sep 2017 09:16:55 +0530</lastBuildDate>
     
-	<atom:link href="https://github.com/iSatishYadav/amp/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.satishyadav.com/amp/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Amp</title>
-      <link>https://github.com/iSatishYadav/amp/tags/amp/</link>
+      <link>https://blog.satishyadav.com/amp/tags/amp/</link>
       <pubDate>Sat, 16 Sep 2017 09:16:55 +0530</pubDate>
       
-      <guid>https://github.com/iSatishYadav/amp/tags/amp/</guid>
+      <guid>https://blog.satishyadav.com/amp/tags/amp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blog</title>
-      <link>https://github.com/iSatishYadav/amp/tags/blog/</link>
+      <link>https://blog.satishyadav.com/amp/tags/blog/</link>
       <pubDate>Sat, 16 Sep 2017 09:16:55 +0530</pubDate>
       
-      <guid>https://github.com/iSatishYadav/amp/tags/blog/</guid>
+      <guid>https://blog.satishyadav.com/amp/tags/blog/</guid>
       <description></description>
     </item>
     

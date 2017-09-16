@@ -3,54 +3,54 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://github.com/iSatishYadav/amp/post/hello-amp/</loc>
+    <loc>https://blog.satishyadav.com/amp/post/hello-amp/</loc>
     <lastmod>2017-09-16T09:16:55+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/iSatishYadav/amp/tags/amp/</loc>
-    <lastmod>2017-09-16T09:16:55+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/iSatishYadav/amp/categories/amp/</loc>
+    <loc>https://blog.satishyadav.com/amp/categories/amp/</loc>
     <lastmod>2017-09-16T09:16:55+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/iSatishYadav/amp/tags/blog/</loc>
+    <loc>https://blog.satishyadav.com/amp/tags/amp/</loc>
     <lastmod>2017-09-16T09:16:55+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/iSatishYadav/amp/categories/blog/</loc>
+    <loc>https://blog.satishyadav.com/amp/categories/blog/</loc>
     <lastmod>2017-09-16T09:16:55+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/iSatishYadav/amp/categories/</loc>
+    <loc>https://blog.satishyadav.com/amp/tags/blog/</loc>
     <lastmod>2017-09-16T09:16:55+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/iSatishYadav/amp/post/</loc>
+    <loc>https://blog.satishyadav.com/amp/categories/</loc>
     <lastmod>2017-09-16T09:16:55+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/iSatishYadav/amp/</loc>
+    <loc>https://blog.satishyadav.com/amp/post/</loc>
     <lastmod>2017-09-16T09:16:55+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/iSatishYadav/amp/tags/</loc>
+    <loc>https://blog.satishyadav.com/amp/</loc>
+    <lastmod>2017-09-16T09:16:55+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.satishyadav.com/amp/tags/</loc>
     <lastmod>2017-09-16T09:16:55+05:30</lastmod>
     <priority>0</priority>
   </url>
