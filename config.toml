@@ -1,4 +1,4 @@
-theme="amp"
+theme="hugo_theme_aglaus"
 title = "Satish Yadav"
 baseurl = "https://blog.satishyadav.com/amp/"
 canonifyurls = true
